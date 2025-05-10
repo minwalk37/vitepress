@@ -5,6 +5,7 @@
 *.tgz
 .DS_Store
 .idea
+*.iml
 .temp
 .vite_opt_cache
 .vscode
